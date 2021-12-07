@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+nav {background: rgb(0, 217, 255);}
+
+body {background-color:rgb(220, 20, 187);}
+
+h1 {color:rgb(140, 0, 255);}
+
+nav a,ul{
+text-decoration: none;
+list-style-type: none;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+align-content: center;
+padding-top: 5px;
+}
+.grande {
+        width: 500px;
+        height: 650px;
+}
+
+.principal h1 {
+    color: purple;
+
+}
